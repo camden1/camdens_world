@@ -31,6 +31,7 @@ h2 {
 
 h3 {
 	font-size: 16px;
+	text-align: center;
 }
 
 p, ul, ol {
@@ -271,6 +272,7 @@ img.right {
 	padding: 30px 0 40px 10px;
 	background: url(../images/img12.jpg) no-repeat left bottom;
 	color: #666;
+	text-align: center;
 }
 
 /* Footer */
