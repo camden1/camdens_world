@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905a6aac-511a-4ccf-bcdf-a7691f721a78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/camden.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/camdens_world.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/default.css" afterPath="$PROJECT_DIR$/app/public/css/default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/homework.html" afterPath="$PROJECT_DIR$/app/public/homework.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/brother and sister/queenelizabeth.jpg" afterPath="$PROJECT_DIR$/app/public/images/brother and sister/queenelizabeth.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/brother and sister/van persie.jpg" afterPath="$PROJECT_DIR$/app/public/images/brother and sister/van persie.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/grandparents/Queen Victoria.jpg" afterPath="$PROJECT_DIR$/app/public/images/grandparents/Queen Victoria.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/grandparents/santa.jpg" afterPath="$PROJECT_DIR$/app/public/images/grandparents/santa.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img01.jpg" afterPath="$PROJECT_DIR$/app/public/images/img01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img02.jpg" afterPath="$PROJECT_DIR$/app/public/images/img02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img03.jpg" afterPath="$PROJECT_DIR$/app/public/images/img03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img04.jpg" afterPath="$PROJECT_DIR$/app/public/images/img04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img05.jpg" afterPath="$PROJECT_DIR$/app/public/images/img05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img06.jpg" afterPath="$PROJECT_DIR$/app/public/images/img06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img07.jpg" afterPath="$PROJECT_DIR$/app/public/images/img07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img08.jpg" afterPath="$PROJECT_DIR$/app/public/images/img08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img09.gif" afterPath="$PROJECT_DIR$/app/public/images/img09.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img10.gif" afterPath="$PROJECT_DIR$/app/public/images/img10.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img11.jpg" afterPath="$PROJECT_DIR$/app/public/images/img11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img12.jpg" afterPath="$PROJECT_DIR$/app/public/images/img12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/img13.gif" afterPath="$PROJECT_DIR$/app/public/images/img13.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/parents/queen of france for a little bit.JPG" afterPath="$PROJECT_DIR$/app/public/images/parents/queen of france for a little bit.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/parents/van gogh.JPG" afterPath="$PROJECT_DIR$/app/public/images/parents/van gogh.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/app/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ruby-gemset" afterPath="$PROJECT_DIR$/.ruby-gemset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/camdens_world.rb" afterPath="$PROJECT_DIR$/app/camdens_world.rb" />
     </list>
     <ignored path="camdens_world.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,19 +30,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camdens_world.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="camdens_world.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/camdens_world.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="61" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+            <state line="7" column="22" selection-start="168" selection-end="195" vertical-scroll-proportion="0.21920668">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1270" selection-end="1270" vertical-scroll-proportion="-0.98416287">
+            <state line="80" column="56" selection-start="3716" selection-end="3716" vertical-scroll-proportion="-8.75">
               <folding />
             </state>
           </provider>
@@ -381,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/camdens_world.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="61" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/public/homework.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="49.083332">
@@ -397,7 +363,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1270" selection-end="1270" vertical-scroll-proportion="-0.98416287">
+        <state line="80" column="56" selection-start="3716" selection-end="3716" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/camdens_world.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="168" selection-end="195" vertical-scroll-proportion="0.21920668">
           <folding />
         </state>
       </provider>

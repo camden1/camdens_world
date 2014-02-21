@@ -5,7 +5,7 @@ class App < Sinatra::Base
   register Sinatra::RespondTo
 
   set :root, File.dirname(__FILE__)
-  set :public_folder, 'public'
+  set :public_folder, Proc.new { File.join(root, 'public') }
   set :views, Proc.new { File.join(root, 'views') }
 
   configure do
