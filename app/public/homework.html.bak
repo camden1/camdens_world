@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by NodeThirtyThree <http://www.nodethirtythree.com>
+Published by Free CSS Templates <http://www.freecsstemplates.org/>Released for free under a Creative Commons Attribution 2.5 License
+Title      : snowglass
+Version    : 1.0Released   : 20070718
+Description: A two-column, fixed-width template featuring a blue glass effect ideal for 1024x768 resolutions.
+--><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>camden's worlds</title>
+    <meta content="" name="keywords" />
+    <meta content="" name="description" />
+    <link type="text/css" rel="stylesheet" href="css/default.css" />
+  </head>
+  <body>
+    <div id="header">
+      <div id="logo">
+        <h1>camden's world</h1>
+        <h2>By camden</h2>
+      </div>
+    </div>
+    <hr />
+    <div id="page">
+      <div id="bg">
+        <div id="content">
+          <div style="padding-top: 57px;" class="post">
+            <h1> </h1>
+            <h1> literacy homework:</h1>
+            <p>Start the sentences with ed and ing. </p>
+            <p> </p>
+            <div id="page2">
+              <div id="bg2">
+                <div style="clear: both; text-align: center;">
+                  <h1>maths homework:</h1>
+                  <p>on <a target="_blank" href="http://www.mathletics.co.uk/">mathletics</a></p>
+                  <h1>french homework:</h1>
+                  <p>print out 5-8 pictures of celebrity(passport size)</p>
+                  <p>siblings</p>
+                  <p><img width="195" height="290" src="images/brother%20and%20sister/queenelizabeth.jpg" /><img
+                      width="211" height="290" src="images/brother%20and%20sister/van%20persie.jpg" /></p>
+                  <p>parents</p>
+                  <p><img width="184" height="270" src="images/parents/queen%20of%20france%20for%20a%20little%20bit.JPG" /><img
+                      width="181" height="270" src="images/parents/van%20gogh.JPG" /></p>
+                  <p>grandparents</p>
+                  <p><img width="185" height="273" src="images/grandparents/santa.jpg" /><img
+                      src="images/grandparents/Queen%20Victoria.jpg" style="width: 213px; height: 264px;" /></p>
+                  <p> </p>
+                </div>
+              </div>
+            </div>
+            <!-- end page --> </div>
+        </div>
+        <div id="sidebar">
+          <ul>
+            <li>
+              <h2>Games</h2>
+            </li>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+            <li>
+              <p><a target="_blank" href="http://www.bmx-games.biz/index.php?act=play&amp;id=7&amp;cid=1">BMX
+                  game</a></p>
+            </li>
+            <li>
+              <p><a target="_blank" href="http://www.crazytaxigames.net/">crazzy
+                  taxi</a></p>
+            </li>
+          </ul>
+          <p><a target="_blank" href="http://www.coolmath-games.com/0-crazy-taxi-m12/index.html">crazzy
+              taxi m12</a></p>
+          <p><a target="_blank" href="http://www.coolmath-games.com/0-papas-pastaria/">papa's
+              pastaria</a></p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-factory-balls-1/index.html">ball
+              factory 1</a></p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-factory-balls-2/index.html">ball
+              factory 2</a></p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-factory-balls-3/index.html">ball
+              factory3</a></p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-factory-balls-4/index.html">ball
+              factory 4</a></p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-papas-cupcakeria/index.html">papa's
+              cupcakeria</a></p>
+          <p><a target="_blank" href="http://www.coolmath-games.com/0-frizzle-fraz/index.html">frizzle
+              fraz 1</a></p>
+          <p><a target="_blank" href="http://www.coolmath-games.com/0-frizzle-fraz-2/index.html">frizzle
+              fraz 2</a> </p>
+          <p><a target="_blank" href="http://coolmath-games.com/0-parking-mania-zoo-escape/index.html">extreme
+              parking mania</a></p>
+          <h3>programming</h3>
+          <p><a target="_blank" href="http://snap.berkeley.edu/snapsource/snap.html#">snap
+              </a></p>
+          <p><a target="_blank" href="http://scratch.mit.edu/projects/editor/?tip_bar=getStarted">scratch</a></p>
+          <p>homework</p>
+          <p><a target="_blank" href="https://fronter.com/surreymle/main.phtml">vle</a></p>
+          <p><a target="_blank" href="http://www.mathletics.co.uk/">mathletics</a></p>
+          <p>websites</p>
+          <p><a target="_blank" href="http://www.myfirstworld.com/clubaliens">club
+              alians</a></p>
+          <p><a target="_blank" href="http://www.coolmath.com/">cool math games</a></p>
+          <ul>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+            <li><br />
+            </li>
+          </ul>
+        </div>
+        <!-- end sidebar -->
+        <div style="clear: both; text-align: center;"> 
+          <h1> </h1>
+        </div>
+      </div>
+    </div>
+    <!-- end page -->
+    <hr />
+    <div id="footer">
+      <p> </p>
+    </div>
+  </body>
+</html>
